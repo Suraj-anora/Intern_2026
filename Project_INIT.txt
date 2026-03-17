@@ -1,0 +1,14 @@
+Hi Karthik, 
+
+1.Clone the Repository link I shared.
+
+2.You first task is to create you branch with "name/question"(always use this template).
+
+3.Make a folder inside project Directory, and copy the assignment program I asked you to do recently.
+
+4.Create Markdown file called "README" and Write what is this assignment program about and how it works.
+
+5.Delete this task file already present in the repo you clone.
+
+6.Make this all changes and commit in you branch and make pull request and merge to main as I showed you today.(If you stuck somewhere please reach out to me).
+
