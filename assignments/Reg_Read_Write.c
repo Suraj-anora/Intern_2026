@@ -158,6 +158,6 @@ int main()
     char *p=write(r[4],45);
     printf("%s\n%s",t,p);
     printf("made changes in the main to understand rebase");
-
 return 0;
 }
+
