@@ -159,6 +159,7 @@ int main()
     printf("%s\n%s",t,p);
     printf("made changes in the main to understand rebase");
     printf("added new line in karthik/Reg_Read_Write to understand rebase");
+    printf("added this line to understand git diff");
 return 0;
 }
 
